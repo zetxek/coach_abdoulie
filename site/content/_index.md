@@ -4,7 +4,9 @@ subtitle: Personal training in Copenhagen
 image: img/gabe-l1sqxjxbgd0-unsplash.jpg
 blurb:
   heading: Why train with a personal coach?
-  text: Great for motivation
+  text: Do you want to make a change in your body, get more fit, or simply be more
+    active? Training with me I will help you with a fully customized plans to
+    achieve your goals, and I will personally coach you on each session.
 intro:
   heading: Services
   text: >-
