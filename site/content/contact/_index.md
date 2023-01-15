@@ -12,4 +12,4 @@ Do you have doubts about the training services, or want to discuss a specific pl
 
 <h3 class="f4 b lh-title mb2">Contact me!</h3>
 
-Book your trial class <a href="https://calendly.com/abdoulie/coach_abdoulie"in the calendar now</a>.
+Book your trial class <a href="https://calendly.com/abdoulie/coach_abdoulie">in the calendar now</a>.
