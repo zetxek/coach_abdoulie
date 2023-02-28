@@ -1,7 +1,7 @@
 ---
 title: Coach Abdoulie
 subtitle: Personal training in Copenhagen
-image: img/gabe-l1sqxjxbgd0-unsplash.jpg
+image: img/samuel-girven-VJ2s0c20qCo-unsplash.jpg
 blurb:
   heading: Why train with a personal coach?
   text: Do you want to make a change in your body, get more fit, or simply be more
