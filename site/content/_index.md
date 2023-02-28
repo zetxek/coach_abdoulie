@@ -15,7 +15,9 @@ intro:
 
 
     Do you have any other idea? Share your goals with me - let's make them real together.
-products: []
+products:
+  - image: img/332066931_717204019786261_7277727307869025773_n.jpg
+    text: Book your free session now and discuss your goals with me!
 values:
   heading: Photos
   text: Get some inspiration with the photo gallery
