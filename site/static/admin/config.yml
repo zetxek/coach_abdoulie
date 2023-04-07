@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: zetxek/coach_abdoulie
-  branch: main
+  branch: content-update
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
