@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "coach_abdoulie",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Coach Abdoulie's website",
+  "repository": "zetxek/coach_abdoulie",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
