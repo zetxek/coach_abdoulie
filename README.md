@@ -1,16 +1,20 @@
 # Coach Abdoulie website
 
-This repo powers the website https://coachabdoulie.dk (pending propagation, also accessible in https://coach-abdoulie.netlify.app)
+This repo powers the website https://coachabdoulie.dk (also accessible in https://coach-abdoulie.netlify.app). It's the portfolio/contact website for Abdoulie - a personal coach in the area of Copenhagen (🇩🇰 Denmark).
 
 ## Based on Hugo template for Netlify CMS with Netlify Identity
 
-It is based on a small business template built with [Hugo](https://gohugo.io) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
+It is based on a small business template built with [Hugo](https://gohugo.io) and [Decap CMS](https://decapcms.org), an admin panel for static site generators.
+Decap was previously known as [Netlify CMS](https://github.com/netlify/netlify-cms). 
+
+The theme the site is based on is designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
+
 
 ## Start your own copy
 
 You can use Netlify's deploy button to start:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/decaporg/one-click-hugo-cms&stack=cms)
 
 This will setup everything needed for running the CMS:
 
