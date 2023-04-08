@@ -17,7 +17,7 @@ describe('empty spec', () => {
   it('navigates to the blog page', () => {
     cy.visit('/post');
     cy.url().should("include", "/post")
-    cy.get('h1').contains(/Latest posts/i)
+    cy.get('h1').contains(/Last posts/i)
   })
 })
 
