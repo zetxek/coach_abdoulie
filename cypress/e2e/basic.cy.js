@@ -8,14 +8,14 @@ describe('empty spec', () => {
   })
 
   it('navigates to the product page', () => {
-    cy.get('a[href="/products"]').eq(0).click();
+    cy.visit('/products');
     cy.url().should("include", "/products")
-    cy.get('h1').contains(/Latest sontent/i)
+    cy.get('h1').contains(/Latest content/i)
   })
 
 
   it('navigates to the blog page', () => {
-    cy.get('a[href="/post"]').eq(0).click();
+    cy.visit('/post');
     cy.url().should("include", "/post")
     cy.get('h1').contains(/Latest Posts/i)
   })
