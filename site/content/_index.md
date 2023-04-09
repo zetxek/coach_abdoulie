@@ -21,4 +21,8 @@ products:
 values:
   heading: Photos
   text: Get some inspiration with the photo gallery
+home_images:
+  - imageUrl: img/324983226_3043583269270807_3027158436497067436_n.jpg
+  - imageUrl: img/322844881_904710617198824_3015713341288671544_n.jpg
+  - imageUrl: img/323942502_501577268713264_7402220166970074335_n.jpg
 ---
